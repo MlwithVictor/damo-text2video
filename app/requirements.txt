@@ -2,3 +2,4 @@ fastapi
 uvicorn
 torch  # CPU-based PyTorch
 modelscope
+numpy
