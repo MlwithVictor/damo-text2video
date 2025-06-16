@@ -3,3 +3,4 @@ uvicorn
 torch  # CPU-based PyTorch
 modelscope
 numpy
+packaging
